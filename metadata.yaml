@@ -1,0 +1,26 @@
+_repo: Selling-Things_59176
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Marden, Orison Swett
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '1515'
+    url: http://www.gutenberg.org/2009/agents/1515
+    wikipedia: http://en.wikipedia.org/wiki/Orison_Swett_Marden
+  - agent_name: MacGrail, Joseph F.
+    gutenberg_agent_id: '50328'
+    url: http://www.gutenberg.org/2009/agents/50328
+description: ''
+gutenberg_issued: '2019-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Selling Things
+url: http://www.gutenberg.org/ebooks/59176
